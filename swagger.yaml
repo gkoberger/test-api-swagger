@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-    $ref: ./info/index.yaml
+  $ref: ./info/index.yaml
 paths:
   /foo:
     get:
