@@ -1,5 +1,4 @@
-aljskdfalksdfj,zmscnk1
-openapi: "3.0.0"ksfa
+openapi: "3.0.0"
 info:
   $ref: ./info/index.yaml
 servers:
@@ -7,7 +6,7 @@ servers:
 paths:
   /pets:
     get:
-      summary: List all pets11
+      summary: List all pets
       operationId: listPets
       tags:
         - pets
